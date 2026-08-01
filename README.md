@@ -6,6 +6,12 @@ This project focuses on analyzing book data collected through web scraping. The 
 ## 📂 Dataset
 books_data.csv
 
+## 📁 Project Structure
+
+- eda_analysis.ipynb → Data exploration  
+- data_visualization.ipynb → Charts & insights  
+- books_data.csv → Dataset  
+
 ## 🎯 Objectives
 - Analyze book prices and ratings  
 - Identify trends in ratings  
